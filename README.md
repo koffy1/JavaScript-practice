@@ -1,2 +1,2 @@
-# JavaScript-practice
+# javascript-practice
 JavaScript development environment
